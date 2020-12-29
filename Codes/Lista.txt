@@ -1,0 +1,26 @@
+<html>
+
+    <head>
+
+        <title>Challenge: Your learning list</title>
+
+        <meta charset="utf-8">
+
+    </head>
+
+    <body>
+    <h1>Como Fazer uma lista numerada usando HTML.</h1>
+    
+    <ol> 
+        <li> Primeiramente precisamos saber quais tags usar na hora de fazermos nossa lista.
+        <li> Depois que já sabemos as tags devemos ir na parte do body e colocar a tag 'ol' para listas numeradas, caso queira uma lista apenas com marcadores devemos utilizar a tag 'ul'.
+        <li> Por fim dentro da tag 'ol' ou 'ul', utilizaremos a tag 'li' que são as linhas da nossa lista.
+        <li> Sabendo disso você já pode começar a fazer sua lista, seja elas com marcadores ou números.
+        
+    </ol>
+        
+        
+        
+    </body>
+
+</html>
